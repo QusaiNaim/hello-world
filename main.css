@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #282A36;
+    position: relative;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    height: auto;
+}
+
+.content {
+    width: 50%;
+    margin:  0 auto;
+    line-height: 1000px;
+}
+
+.content img {
+    width: 100%;
+}
